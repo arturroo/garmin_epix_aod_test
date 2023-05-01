@@ -1,5 +1,5 @@
 using Toybox.WatchUi as Ui;
-using Toybox.Math;
+import Toybox.Math;
 
 class LongBar extends Ui.Drawable {
 	hidden var centerX;
@@ -14,19 +14,14 @@ class LongBar extends Ui.Drawable {
 
         color = params.get(:color);
         percent = params.get(:percent);
-        x = params.get(:x);
-        y = params.get(:y);
         width = params.get(:width);
         height = params.get(:height);
 		radius = params.get(:radius);
+        x = params.get(:x);
+        y = params.get(:y);
     }
 
     function draw(dc) {
-    	centerX = dc.getWidth() / 2;
-    	centerY = dc.getHeight() / 2; 
-		x = centerX - width / 2;
-		y = centerY + 50;
-
 		dc.setColor(color, color);
         
 		if (self.highPowerMode) {
@@ -41,8 +36,19 @@ class LongBar extends Ui.Drawable {
     }
 
     function setHighPowerMode(newHighPowerMode) {
-    	highPowerMode = newHighPowerMode;       	 
+    	highPowerMode = newHighPowerMode;
     }
 
+    function setPosition(dc, newX, newY, center_relative) {
+        if (center_relative) {
+       	    centerX = dc.getWidth() / 2 + newX;
+    	    centerY = dc.getHeight() / 2; 
+		    x = centerX - width / 2;
+		    y = centerY + newY;
+        } else {
+            x = newX;
+		    y = newY;
+        }
+    }
     
 }

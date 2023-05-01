@@ -46,170 +46,218 @@
 <entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\CircularBar.mc" id="6" lineNum="87" parent="globals/CircularBar" pc="268436225" symbol="degreesToRadians"/>
 <entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\CircularBar.mc" id="7" lineNum="90" parent="globals/CircularBar" pc="268436248" symbol="radiansToDegrees"/>
 <entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\CircularBar.mc" id="7" lineNum="91" parent="globals/CircularBar" pc="268436252" symbol="radiansToDegrees"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\CircularBar.mc" id="8" lineNum="4" parent="globals/CircularBar" pc="268438523" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\CircularBar.mc" id="8" lineNum="4" parent="globals/CircularBar" pc="268438523" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\CircularBar.mc" id="8" lineNum="4" parent="globals/CircularBar" pc="268439124" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\CircularBar.mc" id="8" lineNum="4" parent="globals/CircularBar" pc="268439124" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixBackground.mc" id="10" lineNum="8" parent="globals/Background" pc="268436275" symbol="initialize"/>
 <entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixBackground.mc" id="10" lineNum="9" parent="globals/Background" pc="268436279" symbol="initialize"/>
 <entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixBackground.mc" id="10" lineNum="13" parent="globals/Background" pc="268436300" symbol="initialize"/>
 <entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixBackground.mc" id="11" lineNum="16" parent="globals/Background" pc="268436321" symbol="draw"/>
 <entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixBackground.mc" id="11" lineNum="18" parent="globals/Background" pc="268436325" symbol="draw"/>
 <entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixBackground.mc" id="11" lineNum="19" parent="globals/Background" pc="268436374" symbol="draw"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixBackground.mc" id="12" lineNum="6" parent="globals/Background" pc="268438504" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixBackground.mc" id="12" lineNum="6" parent="globals/Background" pc="268438504" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="14" lineNum="17" parent="globals/af_epixView" pc="268436387" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="14" lineNum="18" parent="globals/af_epixView" pc="268436391" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="14" lineNum="19" parent="globals/af_epixView" pc="268436404" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="14" lineNum="20" parent="globals/af_epixView" pc="268436414" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="14" lineNum="25" parent="globals/af_epixView" pc="268436467" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="14" lineNum="31" parent="globals/af_epixView" pc="268436520" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="15" lineNum="35" parent="globals/af_epixView" pc="268436539" symbol="onLayout"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="15" lineNum="36" parent="globals/af_epixView" pc="268436543" symbol="onLayout"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="16" lineNum="42" parent="globals/af_epixView" pc="268436581" symbol="onShow"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="17" lineNum="46" parent="globals/af_epixView" pc="268436586" symbol="onUpdate"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="17" lineNum="47" parent="globals/af_epixView" pc="268436590" symbol="onUpdate"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="17" lineNum="48" parent="globals/af_epixView" pc="268436602" symbol="onUpdate"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="17" lineNum="50" parent="globals/af_epixView" pc="268436614" symbol="onUpdate"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="17" lineNum="51" parent="globals/af_epixView" pc="268436626" symbol="onUpdate"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="17" lineNum="55" parent="globals/af_epixView" pc="268436638" symbol="onUpdate"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="18" lineNum="61" parent="globals/af_epixView" pc="268436659" symbol="onHide"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="19" lineNum="65" parent="globals/af_epixView" pc="268436664" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="19" lineNum="67" parent="globals/af_epixView" pc="268436668" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="19" lineNum="68" parent="globals/af_epixView" pc="268436681" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="20" lineNum="72" parent="globals/af_epixView" pc="268436692" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="20" lineNum="74" parent="globals/af_epixView" pc="268436696" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="20" lineNum="75" parent="globals/af_epixView" pc="268436709" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="79" parent="globals/af_epixView" pc="268436720" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="81" parent="globals/af_epixView" pc="268436724" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="82" parent="globals/af_epixView" pc="268436731" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="83" parent="globals/af_epixView" pc="268436748" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="84" parent="globals/af_epixView" pc="268436758" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="85" parent="globals/af_epixView" pc="268436783" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="86" parent="globals/af_epixView" pc="268436794" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="89" parent="globals/af_epixView" pc="268436810" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="90" parent="globals/af_epixView" pc="268436838" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="91" parent="globals/af_epixView" pc="268436845" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="94" parent="globals/af_epixView" pc="268436866" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="97" parent="globals/af_epixView" pc="268436931" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="98" parent="globals/af_epixView" pc="268436955" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="99" parent="globals/af_epixView" pc="268436992" symbol="setTimeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="22" lineNum="102" parent="globals/af_epixView" pc="268437007" symbol="setPowerModeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="22" lineNum="103" parent="globals/af_epixView" pc="268437011" symbol="setPowerModeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="22" lineNum="104" parent="globals/af_epixView" pc="268437035" symbol="setPowerModeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="22" lineNum="105" parent="globals/af_epixView" pc="268437072" symbol="setPowerModeDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="23" lineNum="108" parent="globals/af_epixView" pc="268437093" symbol="setBatteryDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="23" lineNum="109" parent="globals/af_epixView" pc="268437097" symbol="setBatteryDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="23" lineNum="110" parent="globals/af_epixView" pc="268437120" symbol="setBatteryDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="23" lineNum="111" parent="globals/af_epixView" pc="268437144" symbol="setBatteryDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="24" lineNum="114" parent="globals/af_epixView" pc="268437165" symbol="setStepsDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="24" lineNum="115" parent="globals/af_epixView" pc="268437169" symbol="setStepsDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="24" lineNum="116" parent="globals/af_epixView" pc="268437201" symbol="setStepsDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="24" lineNum="117" parent="globals/af_epixView" pc="268437225" symbol="setStepsDisplay"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="25" lineNum="9" parent="globals/af_epixView" pc="268438542" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="25" lineNum="9" parent="globals/af_epixView" pc="268438542" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="27" lineNum="10" parent="globals/LongBar" pc="268437246" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="27" lineNum="11" parent="globals/LongBar" pc="268437250" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="27" lineNum="13" parent="globals/LongBar" pc="268437270" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="27" lineNum="15" parent="globals/LongBar" pc="268437280" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="27" lineNum="16" parent="globals/LongBar" pc="268437304" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="27" lineNum="17" parent="globals/LongBar" pc="268437328" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="27" lineNum="18" parent="globals/LongBar" pc="268437352" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="27" lineNum="19" parent="globals/LongBar" pc="268437376" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="27" lineNum="20" parent="globals/LongBar" pc="268437400" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="27" lineNum="21" parent="globals/LongBar" pc="268437424" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="28" lineNum="24" parent="globals/LongBar" pc="268437449" symbol="draw"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="28" lineNum="25" parent="globals/LongBar" pc="268437453" symbol="draw"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="28" lineNum="26" parent="globals/LongBar" pc="268437478" symbol="draw"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="28" lineNum="27" parent="globals/LongBar" pc="268437503" symbol="draw"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="28" lineNum="28" parent="globals/LongBar" pc="268437534" symbol="draw"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="28" lineNum="30" parent="globals/LongBar" pc="268437556" symbol="draw"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="28" lineNum="32" parent="globals/LongBar" pc="268437584" symbol="draw"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="28" lineNum="33" parent="globals/LongBar" pc="268437595" symbol="draw"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="28" lineNum="35" parent="globals/LongBar" pc="268437650" symbol="draw"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="29" lineNum="39" parent="globals/LongBar" pc="268437703" symbol="setPercent"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="29" lineNum="40" parent="globals/LongBar" pc="268437707" symbol="setPercent"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="30" lineNum="43" parent="globals/LongBar" pc="268437718" symbol="setHighPowerMode"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="30" lineNum="44" parent="globals/LongBar" pc="268437722" symbol="setHighPowerMode"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="31" lineNum="4" parent="globals/LongBar" pc="268438610" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="31" lineNum="4" parent="globals/LongBar" pc="268438610" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="33" lineNum="7" parent="globals/af_epixApp" pc="268437733" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="33" lineNum="8" parent="globals/af_epixApp" pc="268437737" symbol="initialize"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="34" lineNum="12" parent="globals/af_epixApp" pc="268437756" symbol="onStart"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="35" lineNum="16" parent="globals/af_epixApp" pc="268437761" symbol="onStop"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="36" lineNum="20" parent="globals/af_epixApp" pc="268437766" symbol="getInitialView"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="36" lineNum="21" parent="globals/af_epixApp" pc="268437770" symbol="getInitialView"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="37" lineNum="25" parent="globals/af_epixApp" pc="268437808" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="37" lineNum="26" parent="globals/af_epixApp" pc="268437812" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="38" lineNum="5" parent="globals/af_epixApp" pc="268438591" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="38" lineNum="5" parent="globals/af_epixApp" pc="268438591" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="39" lineNum="31" parent="globals" pc="268437829" symbol="getApp"/>
-<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="39" lineNum="32" parent="globals" pc="268437841" symbol="getApp"/>
-<entry filename="Rez" id="41" lineNum="2" parent="globals/Rez/Drawables" pc="268438585" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="42" lineNum="6" parent="globals/Rez/Fonts" pc="268438587" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="43" lineNum="8" parent="globals/Rez/JsonData" pc="268438589" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="44" lineNum="17" parent="globals/Rez/Layouts" pc="268437858" symbol="WatchFace"/>
-<entry filename="Rez" id="44" lineNum="19" parent="globals/Rez/Layouts" pc="268437870" symbol="WatchFace"/>
-<entry filename="Rez" id="44" lineNum="20" parent="globals/Rez/Layouts" pc="268437894" symbol="WatchFace"/>
-<entry filename="Rez" id="44" lineNum="21" parent="globals/Rez/Layouts" pc="268438057" symbol="WatchFace"/>
-<entry filename="Rez" id="44" lineNum="22" parent="globals/Rez/Layouts" pc="268438190" symbol="WatchFace"/>
-<entry filename="Rez" id="44" lineNum="23" parent="globals/Rez/Layouts" pc="268438311" symbol="WatchFace"/>
-<entry filename="Rez" id="44" lineNum="25" parent="globals/Rez/Layouts" pc="268438445" symbol="WatchFace"/>
-<entry filename="Rez" id="45" lineNum="10" parent="globals/Rez/Layouts" pc="268438588" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="46" lineNum="30" parent="globals/Rez/Menus" pc="268438586" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="47" lineNum="32" parent="globals/Rez/Strings" pc="268438590" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="48" lineNum="1" parent="globals/Rez" pc="268438561" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="48" lineNum="1" parent="globals/Rez" pc="268438561" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixBackground.mc" id="12" lineNum="6" parent="globals/Background" pc="268439105" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixBackground.mc" id="12" lineNum="6" parent="globals/Background" pc="268439105" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="14" lineNum="14" parent="globals/TimeBox" pc="268436387" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="14" lineNum="15" parent="globals/TimeBox" pc="268436391" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="14" lineNum="17" parent="globals/TimeBox" pc="268436411" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="14" lineNum="19" parent="globals/TimeBox" pc="268436421" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="14" lineNum="20" parent="globals/TimeBox" pc="268436445" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="14" lineNum="21" parent="globals/TimeBox" pc="268436469" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="14" lineNum="22" parent="globals/TimeBox" pc="268436493" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="14" lineNum="23" parent="globals/TimeBox" pc="268436517" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="14" lineNum="24" parent="globals/TimeBox" pc="268436541" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="15" lineNum="41" parent="globals/TimeBox" pc="268436566" symbol="setHighPowerMode"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="15" lineNum="42" parent="globals/TimeBox" pc="268436570" symbol="setHighPowerMode"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="16" lineNum="45" parent="globals/TimeBox" pc="268436581" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="16" lineNum="46" parent="globals/TimeBox" pc="268436585" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="16" lineNum="47" parent="globals/TimeBox" pc="268436590" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="16" lineNum="48" parent="globals/TimeBox" pc="268436610" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="16" lineNum="49" parent="globals/TimeBox" pc="268436630" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="16" lineNum="50" parent="globals/TimeBox" pc="268436664" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="16" lineNum="52" parent="globals/TimeBox" pc="268436701" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="16" lineNum="53" parent="globals/TimeBox" pc="268436711" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="17" lineNum="57" parent="globals/TimeBox" pc="268436722" symbol="getTimeString"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="17" lineNum="59" parent="globals/TimeBox" pc="268436726" symbol="getTimeString"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="17" lineNum="60" parent="globals/TimeBox" pc="268436733" symbol="getTimeString"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="17" lineNum="61" parent="globals/TimeBox" pc="268436750" symbol="getTimeString"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="17" lineNum="62" parent="globals/TimeBox" pc="268436760" symbol="getTimeString"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="17" lineNum="63" parent="globals/TimeBox" pc="268436785" symbol="getTimeString"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="17" lineNum="64" parent="globals/TimeBox" pc="268436796" symbol="getTimeString"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="17" lineNum="67" parent="globals/TimeBox" pc="268436812" symbol="getTimeString"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="17" lineNum="68" parent="globals/TimeBox" pc="268436840" symbol="getTimeString"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="17" lineNum="69" parent="globals/TimeBox" pc="268436847" symbol="getTimeString"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="17" lineNum="72" parent="globals/TimeBox" pc="268436868" symbol="getTimeString"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="17" lineNum="73" parent="globals/TimeBox" pc="268436933" symbol="getTimeString"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="18" lineNum="7" parent="globals/TimeBox" pc="268439192" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\TimeBox.mc" id="18" lineNum="7" parent="globals/TimeBox" pc="268439192" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="20" lineNum="17" parent="globals/af_epixView" pc="268436937" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="20" lineNum="18" parent="globals/af_epixView" pc="268436941" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="20" lineNum="19" parent="globals/af_epixView" pc="268436954" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="20" lineNum="20" parent="globals/af_epixView" pc="268436964" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="20" lineNum="25" parent="globals/af_epixView" pc="268437017" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="20" lineNum="31" parent="globals/af_epixView" pc="268437070" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="35" parent="globals/af_epixView" pc="268437089" symbol="onLayout"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="21" lineNum="36" parent="globals/af_epixView" pc="268437093" symbol="onLayout"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="22" lineNum="42" parent="globals/af_epixView" pc="268437131" symbol="onShow"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="23" lineNum="46" parent="globals/af_epixView" pc="268437136" symbol="onUpdate"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="23" lineNum="48" parent="globals/af_epixView" pc="268437140" symbol="onUpdate"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="23" lineNum="49" parent="globals/af_epixView" pc="268437152" symbol="onUpdate"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="23" lineNum="50" parent="globals/af_epixView" pc="268437164" symbol="onUpdate"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="23" lineNum="54" parent="globals/af_epixView" pc="268437178" symbol="onUpdate"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="24" lineNum="60" parent="globals/af_epixView" pc="268437199" symbol="onHide"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="25" lineNum="64" parent="globals/af_epixView" pc="268437204" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="25" lineNum="66" parent="globals/af_epixView" pc="268437208" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="25" lineNum="67" parent="globals/af_epixView" pc="268437221" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="26" lineNum="71" parent="globals/af_epixView" pc="268437232" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="26" lineNum="73" parent="globals/af_epixView" pc="268437236" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="26" lineNum="74" parent="globals/af_epixView" pc="268437249" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="78" parent="globals/af_epixView" pc="268437260" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="80" parent="globals/af_epixView" pc="268437264" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="81" parent="globals/af_epixView" pc="268437271" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="82" parent="globals/af_epixView" pc="268437288" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="83" parent="globals/af_epixView" pc="268437298" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="84" parent="globals/af_epixView" pc="268437323" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="85" parent="globals/af_epixView" pc="268437334" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="88" parent="globals/af_epixView" pc="268437350" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="89" parent="globals/af_epixView" pc="268437378" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="90" parent="globals/af_epixView" pc="268437385" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="93" parent="globals/af_epixView" pc="268437406" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="96" parent="globals/af_epixView" pc="268437471" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="97" parent="globals/af_epixView" pc="268437495" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="98" parent="globals/af_epixView" pc="268437532" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="100" parent="globals/af_epixView" pc="268437546" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="101" parent="globals/af_epixView" pc="268437553" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="102" parent="globals/af_epixView" pc="268437560" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="103" parent="globals/af_epixView" pc="268437579" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="104" parent="globals/af_epixView" pc="268437598" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="105" parent="globals/af_epixView" pc="268437620" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="106" parent="globals/af_epixView" pc="268437642" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="27" lineNum="107" parent="globals/af_epixView" pc="268437652" symbol="setTimeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="28" lineNum="110" parent="globals/af_epixView" pc="268437663" symbol="setPowerModeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="28" lineNum="111" parent="globals/af_epixView" pc="268437667" symbol="setPowerModeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="28" lineNum="112" parent="globals/af_epixView" pc="268437691" symbol="setPowerModeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="28" lineNum="113" parent="globals/af_epixView" pc="268437728" symbol="setPowerModeDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="29" lineNum="116" parent="globals/af_epixView" pc="268437749" symbol="setStepsDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="29" lineNum="117" parent="globals/af_epixView" pc="268437753" symbol="setStepsDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="29" lineNum="118" parent="globals/af_epixView" pc="268437785" symbol="setStepsDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="29" lineNum="119" parent="globals/af_epixView" pc="268437809" symbol="setStepsDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="29" lineNum="120" parent="globals/af_epixView" pc="268437835" symbol="setStepsDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="30" lineNum="123" parent="globals/af_epixView" pc="268437856" symbol="setTimeBoxDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="30" lineNum="124" parent="globals/af_epixView" pc="268437860" symbol="setTimeBoxDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="30" lineNum="125" parent="globals/af_epixView" pc="268437884" symbol="setTimeBoxDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="30" lineNum="126" parent="globals/af_epixView" pc="268437921" symbol="setTimeBoxDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="30" lineNum="127" parent="globals/af_epixView" pc="268437934" symbol="setTimeBoxDisplay"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="31" lineNum="9" parent="globals/af_epixView" pc="268439143" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixView.mc" id="31" lineNum="9" parent="globals/af_epixView" pc="268439143" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="33" lineNum="10" parent="globals/LongBar" pc="268437949" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="33" lineNum="11" parent="globals/LongBar" pc="268437953" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="33" lineNum="13" parent="globals/LongBar" pc="268437973" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="33" lineNum="15" parent="globals/LongBar" pc="268437983" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="33" lineNum="16" parent="globals/LongBar" pc="268438007" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="33" lineNum="17" parent="globals/LongBar" pc="268438031" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="33" lineNum="18" parent="globals/LongBar" pc="268438055" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="33" lineNum="19" parent="globals/LongBar" pc="268438079" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="33" lineNum="20" parent="globals/LongBar" pc="268438103" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="33" lineNum="21" parent="globals/LongBar" pc="268438127" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="34" lineNum="24" parent="globals/LongBar" pc="268438152" symbol="draw"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="34" lineNum="25" parent="globals/LongBar" pc="268438156" symbol="draw"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="34" lineNum="27" parent="globals/LongBar" pc="268438184" symbol="draw"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="34" lineNum="28" parent="globals/LongBar" pc="268438195" symbol="draw"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="34" lineNum="30" parent="globals/LongBar" pc="268438250" symbol="draw"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="35" lineNum="34" parent="globals/LongBar" pc="268438303" symbol="setPercent"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="35" lineNum="35" parent="globals/LongBar" pc="268438307" symbol="setPercent"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="36" lineNum="38" parent="globals/LongBar" pc="268438318" symbol="setHighPowerMode"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="36" lineNum="39" parent="globals/LongBar" pc="268438322" symbol="setHighPowerMode"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="37" lineNum="42" parent="globals/LongBar" pc="268438333" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="37" lineNum="43" parent="globals/LongBar" pc="268438337" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="37" lineNum="44" parent="globals/LongBar" pc="268438342" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="37" lineNum="45" parent="globals/LongBar" pc="268438370" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="37" lineNum="46" parent="globals/LongBar" pc="268438395" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="37" lineNum="47" parent="globals/LongBar" pc="268438426" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="37" lineNum="49" parent="globals/LongBar" pc="268438448" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="37" lineNum="50" parent="globals/LongBar" pc="268438458" symbol="setPosition"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="38" lineNum="4" parent="globals/LongBar" pc="268439230" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\LongBar.mc" id="38" lineNum="4" parent="globals/LongBar" pc="268439230" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="40" lineNum="7" parent="globals/af_epixApp" pc="268438469" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="40" lineNum="8" parent="globals/af_epixApp" pc="268438473" symbol="initialize"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="41" lineNum="12" parent="globals/af_epixApp" pc="268438492" symbol="onStart"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="42" lineNum="16" parent="globals/af_epixApp" pc="268438497" symbol="onStop"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="43" lineNum="20" parent="globals/af_epixApp" pc="268438502" symbol="getInitialView"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="43" lineNum="21" parent="globals/af_epixApp" pc="268438506" symbol="getInitialView"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="44" lineNum="25" parent="globals/af_epixApp" pc="268438544" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="44" lineNum="26" parent="globals/af_epixApp" pc="268438548" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="45" lineNum="5" parent="globals/af_epixApp" pc="268439211" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="45" lineNum="5" parent="globals/af_epixApp" pc="268439211" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="46" lineNum="31" parent="globals" pc="268438565" symbol="getApp"/>
+<entry filename="C:\\Users\\admin\\Documents\\github\\arturroo\\garmin_epix_aod_test\\watchfaces\\af_epix\\source\\af_epixApp.mc" id="46" lineNum="32" parent="globals" pc="268438577" symbol="getApp"/>
+<entry filename="Rez" id="48" lineNum="2" parent="globals/Rez/Drawables" pc="268439186" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="49" lineNum="6" parent="globals/Rez/Fonts" pc="268439188" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="50" lineNum="8" parent="globals/Rez/JsonData" pc="268439190" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="51" lineNum="17" parent="globals/Rez/Layouts" pc="268438594" symbol="WatchFace"/>
+<entry filename="Rez" id="51" lineNum="19" parent="globals/Rez/Layouts" pc="268438606" symbol="WatchFace"/>
+<entry filename="Rez" id="51" lineNum="20" parent="globals/Rez/Layouts" pc="268438630" symbol="WatchFace"/>
+<entry filename="Rez" id="51" lineNum="21" parent="globals/Rez/Layouts" pc="268438789" symbol="WatchFace"/>
+<entry filename="Rez" id="51" lineNum="22" parent="globals/Rez/Layouts" pc="268438922" symbol="WatchFace"/>
+<entry filename="Rez" id="51" lineNum="24" parent="globals/Rez/Layouts" pc="268439056" symbol="WatchFace"/>
+<entry filename="Rez" id="52" lineNum="10" parent="globals/Rez/Layouts" pc="268439189" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="53" lineNum="29" parent="globals/Rez/Menus" pc="268439187" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="54" lineNum="31" parent="globals/Rez/Strings" pc="268439191" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="55" lineNum="1" parent="globals/Rez" pc="268439162" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="55" lineNum="1" parent="globals/Rez" pc="268439162" symbol="&lt;init&gt;"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
-<entry id="10" object="true" symbol="af_epixView"/>
+<entry id="34" method="true" symbol="setTimeBoxDisplay"/>
+<entry id="8389346" symbol="text"/>
+<entry id="11" object="true" symbol="af_epixView"/>
+<entry id="50" method="true" symbol="setPosition"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
 <entry id="4" module="true" symbol="globals/Rez/Menus"/>
-<entry field="true" id="29" symbol="&lt;globals/af_epixView/&lt;&gt;modeColors&gt;"/>
+<entry field="true" id="30" symbol="&lt;globals/af_epixView/&lt;&gt;modeColors&gt;"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
 <entry field="true" id="8389759" symbol="radius"/>
-<entry field="true" id="39" symbol="ColorRed"/>
-<entry field="true" id="27" symbol="&lt;globals/af_epixView/&lt;&gt;lowPowerColors&gt;"/>
-<entry id="11" object="true" symbol="LongBar"/>
-<entry field="true" id="43" symbol="MilitaryFormatTitle"/>
+<entry field="true" id="40" symbol="ColorRed"/>
+<entry field="true" id="28" symbol="&lt;globals/af_epixView/&lt;&gt;lowPowerColors&gt;"/>
+<entry id="51" method="true" symbol="getTimeString"/>
+<entry id="12" object="true" symbol="LongBar"/>
+<entry field="true" id="44" symbol="MilitaryFormatTitle"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry id="31" method="true" symbol="setPowerModeDisplay"/>
-<entry id="12" object="true" symbol="af_epixApp"/>
-<entry field="true" id="38" symbol="ColorBlue"/>
-<entry field="true" id="15" symbol="percent"/>
-<entry field="true" id="46" symbol="AppName"/>
+<entry id="32" method="true" symbol="setPowerModeDisplay"/>
+<entry id="13" object="true" symbol="af_epixApp"/>
+<entry field="true" id="39" symbol="ColorBlue"/>
+<entry field="true" id="16" symbol="percent"/>
+<entry field="true" id="47" symbol="AppName"/>
 <entry id="8388633" module="true" symbol="ActivityMonitor"/>
 <entry id="8" module="true" symbol="globals/Rez/Strings"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry id="20" method="true" symbol="drawArcGroups"/>
+<entry id="21" method="true" symbol="drawArcGroups"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
 <entry id="2" module="true" symbol="globals/Rez"/>
 <entry id="33" method="true" symbol="setStepsDisplay"/>
-<entry field="true" id="18" symbol="startingRadius"/>
+<entry field="true" id="19" symbol="startingRadius"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
 <entry field="true" id="8389065" symbol="locY"/>
-<entry id="48" method="true" symbol="setHighPowerMode"/>
+<entry id="49" method="true" symbol="setHighPowerMode"/>
 <entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389348" symbol="font"/>
 <entry field="true" id="8389067" symbol="height"/>
-<entry id="35" module="true" symbol="Menus"/>
+<entry id="36" module="true" symbol="Menus"/>
 <entry id="8389275" method="true" symbol="getApp"/>
-<entry field="true" id="42" symbol="ColorDarkGray"/>
+<entry field="true" id="43" symbol="ColorDarkGray"/>
 <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
 <entry field="true" id="8389066" symbol="width"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="8389349" symbol="justification"/>
-<entry id="22" method="true" symbol="degreesToRadians"/>
-<entry field="true" id="45" symbol="ColorWhite"/>
+<entry id="23" method="true" symbol="degreesToRadians"/>
+<entry field="true" id="46" symbol="ColorWhite"/>
 <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
-<entry field="true" id="44" symbol="ColorBlack"/>
+<entry field="true" id="45" symbol="ColorBlack"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-<entry field="true" id="47" symbol="highPowerMode"/>
-<entry id="32" method="true" symbol="setBatteryDisplay"/>
-<entry field="true" id="28" symbol="&lt;globals/af_epixView/&lt;&gt;timeColors&gt;"/>
+<entry field="true" id="48" symbol="highPowerMode"/>
+<entry field="true" id="29" symbol="&lt;globals/af_epixView/&lt;&gt;timeColors&gt;"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388644" module="true" symbol="System"/>
 <entry id="9" object="true" symbol="CircularBar"/>
@@ -218,38 +266,39 @@
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry id="8389068" method="true" symbol="draw"/>
-<entry field="true" id="36" symbol="LauncherIcon"/>
+<entry field="true" id="37" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8389350" module="true" symbol="globals"/>
-<entry field="true" id="41" symbol="BackgroundColorTitle"/>
-<entry field="true" id="24" symbol="&lt;globals/af_epixView/&lt;&gt;powerMode&gt;"/>
+<entry field="true" id="42" symbol="BackgroundColorTitle"/>
+<entry field="true" id="25" symbol="&lt;globals/af_epixView/&lt;&gt;powerMode&gt;"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
-<entry id="30" method="true" symbol="setTimeDisplay"/>
+<entry id="31" method="true" symbol="setTimeDisplay"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
-<entry field="true" id="14" symbol="centerY"/>
-<entry field="true" id="13" symbol="centerX"/>
+<entry field="true" id="15" symbol="centerY"/>
+<entry field="true" id="14" symbol="centerX"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="21" method="true" symbol="drawDoubleArcs"/>
+<entry id="22" method="true" symbol="drawDoubleArcs"/>
 <entry id="8388641" module="true" symbol="Math"/>
-<entry field="true" id="37" symbol="ColorLightGray"/>
+<entry field="true" id="38" symbol="ColorLightGray"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry field="true" id="25" symbol="&lt;globals/af_epixView/&lt;&gt;highPowerMode&gt;"/>
+<entry field="true" id="26" symbol="&lt;globals/af_epixView/&lt;&gt;highPowerMode&gt;"/>
 <entry field="true" id="8389347" symbol="color"/>
-<entry field="true" id="17" symbol="barGap"/>
-<entry id="19" method="true" symbol="setPercent"/>
-<entry field="true" id="40" symbol="ForegroundColorTitle"/>
-<entry id="34" module="true" symbol="Layouts"/>
-<entry id="23" method="true" symbol="radiansToDegrees"/>
+<entry field="true" id="18" symbol="barGap"/>
+<entry id="20" method="true" symbol="setPercent"/>
+<entry field="true" id="41" symbol="ForegroundColorTitle"/>
+<entry id="10" object="true" symbol="TimeBox"/>
+<entry id="35" module="true" symbol="Layouts"/>
+<entry id="24" method="true" symbol="radiansToDegrees"/>
 <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="16" symbol="barThickness"/>
+<entry field="true" id="17" symbol="barThickness"/>
 <entry id="8388635" module="true" symbol="Application"/>
 <entry field="true" id="8390079" symbol="y"/>
 <entry field="true" id="8390078" symbol="x"/>
-<entry field="true" id="26" symbol="&lt;globals/af_epixView/&lt;&gt;highPowerColors&gt;"/>
+<entry field="true" id="27" symbol="&lt;globals/af_epixView/&lt;&gt;highPowerColors&gt;"/>
 </symbolTable>
 <localVars>
 <entry endPc="268435650" name="tryGetStartingRadius" stackId="2" startPc="268435460"/>
@@ -274,30 +323,51 @@
 <entry arg="true" endPc="268436274" name="radians" stackId="1" startPc="268436248"/>
 <entry endPc="268436319" name="dictionary" stackId="1" startPc="268436279"/>
 <entry arg="true" endPc="268436386" name="dc" stackId="1" startPc="268436321"/>
-<entry arg="true" endPc="268436580" name="dc" stackId="1" startPc="268436539"/>
-<entry arg="true" endPc="268436658" name="dc" stackId="1" startPc="268436586"/>
-<entry endPc="268437005" name="view" stackId="5" startPc="268436724"/>
-<entry endPc="268437005" name="hours" stackId="3" startPc="268436724"/>
-<entry endPc="268437005" name="timeString" stackId="4" startPc="268436724"/>
-<entry endPc="268437005" name="clockTime" stackId="2" startPc="268436724"/>
-<entry endPc="268437005" name="timeFormat" stackId="1" startPc="268436724"/>
-<entry endPc="268437091" name="mymode" stackId="1" startPc="268437011"/>
-<entry endPc="268437163" name="battery" stackId="1" startPc="268437097"/>
-<entry endPc="268437163" name="batteryBarDisplay" stackId="2" startPc="268437097"/>
-<entry endPc="268437244" name="stepsBarDisplay" stackId="2" startPc="268437169"/>
-<entry endPc="268437244" name="stepCount" stackId="1" startPc="268437169"/>
-<entry arg="true" endPc="268437448" name="params" stackId="1" startPc="268437246"/>
-<entry arg="true" endPc="268437702" name="dc" stackId="1" startPc="268437449"/>
-<entry arg="true" endPc="268437717" name="newPercent" stackId="1" startPc="268437703"/>
-<entry arg="true" endPc="268437732" name="newHighPowerMode" stackId="1" startPc="268437718"/>
-<entry arg="true" endPc="268437760" name="state" stackId="1" startPc="268437756"/>
-<entry arg="true" endPc="268437765" name="state" stackId="1" startPc="268437761"/>
-<entry endPc="268438501" name="rez_cmp_local_custom_drawable_StepsBarDisplay" stackId="6" startPc="268437870"/>
-<entry endPc="268438501" name="rez_cmp_local_custom_drawable_74129604015481297578" stackId="2" startPc="268437870"/>
-<entry endPc="268438501" name="rez_cmp_local_text_ModeDisplay" stackId="4" startPc="268437870"/>
-<entry endPc="268438501" name="rez_cmp_local_custom_drawable_BatteryBarDisplay" stackId="5" startPc="268437870"/>
-<entry endPc="268438501" name="rez_cmp_local_text_TimeDisplay" stackId="3" startPc="268437870"/>
-<entry arg="true" endPc="268438502" name="dc" stackId="1" startPc="268437858"/>
+<entry arg="true" endPc="268436565" name="params" stackId="1" startPc="268436387"/>
+<entry arg="true" endPc="268436580" name="newHighPowerMode" stackId="1" startPc="268436566"/>
+<entry arg="true" endPc="268436721" name="dc" stackId="1" startPc="268436581"/>
+<entry arg="true" endPc="268436721" name="newY" stackId="3" startPc="268436581"/>
+<entry arg="true" endPc="268436721" name="center_relative" stackId="4" startPc="268436581"/>
+<entry arg="true" endPc="268436721" name="newX" stackId="2" startPc="268436581"/>
+<entry endPc="268436935" name="hours" stackId="3" startPc="268436726"/>
+<entry endPc="268436935" name="timeString" stackId="4" startPc="268436726"/>
+<entry endPc="268436935" name="clockTime" stackId="2" startPc="268436726"/>
+<entry endPc="268436935" name="timeFormat" stackId="1" startPc="268436726"/>
+<entry arg="true" endPc="268437130" name="dc" stackId="1" startPc="268437089"/>
+<entry arg="true" endPc="268437198" name="dc" stackId="1" startPc="268437136"/>
+<entry endPc="268437661" name="timeString" stackId="5" startPc="268437264"/>
+<entry endPc="268437661" name="timeDisplay" stackId="6" startPc="268437264"/>
+<entry endPc="268437661" name="yOffset" stackId="8" startPc="268437264"/>
+<entry endPc="268437661" name="clockTime" stackId="3" startPc="268437264"/>
+<entry endPc="268437661" name="centerY" stackId="10" startPc="268437264"/>
+<entry endPc="268437661" name="timeFormat" stackId="2" startPc="268437264"/>
+<entry endPc="268437661" name="centerX" stackId="9" startPc="268437264"/>
+<entry endPc="268437661" name="xOffset" stackId="7" startPc="268437264"/>
+<entry endPc="268437661" name="y" stackId="12" startPc="268437264"/>
+<entry endPc="268437661" name="x" stackId="11" startPc="268437264"/>
+<entry endPc="268437661" name="hours" stackId="4" startPc="268437264"/>
+<entry arg="true" endPc="268437662" name="dc" stackId="1" startPc="268437260"/>
+<entry endPc="268437747" name="mymode" stackId="1" startPc="268437667"/>
+<entry endPc="268437854" name="stepsBarDisplay" stackId="3" startPc="268437753"/>
+<entry endPc="268437854" name="stepCount" stackId="2" startPc="268437753"/>
+<entry arg="true" endPc="268437855" name="dc" stackId="1" startPc="268437749"/>
+<entry endPc="268437947" name="timeString" stackId="2" startPc="268437860"/>
+<entry endPc="268437947" name="timeBox" stackId="1" startPc="268437860"/>
+<entry arg="true" endPc="268438151" name="params" stackId="1" startPc="268437949"/>
+<entry arg="true" endPc="268438302" name="dc" stackId="1" startPc="268438152"/>
+<entry arg="true" endPc="268438317" name="newPercent" stackId="1" startPc="268438303"/>
+<entry arg="true" endPc="268438332" name="newHighPowerMode" stackId="1" startPc="268438318"/>
+<entry arg="true" endPc="268438468" name="dc" stackId="1" startPc="268438333"/>
+<entry arg="true" endPc="268438468" name="newY" stackId="3" startPc="268438333"/>
+<entry arg="true" endPc="268438468" name="center_relative" stackId="4" startPc="268438333"/>
+<entry arg="true" endPc="268438468" name="newX" stackId="2" startPc="268438333"/>
+<entry arg="true" endPc="268438496" name="state" stackId="1" startPc="268438492"/>
+<entry arg="true" endPc="268438501" name="state" stackId="1" startPc="268438497"/>
+<entry endPc="268439102" name="rez_cmp_local_custom_drawable_StepsBarDisplay" stackId="5" startPc="268438606"/>
+<entry endPc="268439102" name="rez_cmp_local_custom_drawable_43283624711505570761" stackId="2" startPc="268438606"/>
+<entry endPc="268439102" name="rez_cmp_local_text_ModeDisplay" stackId="4" startPc="268438606"/>
+<entry endPc="268439102" name="rez_cmp_local_text_TimeDisplay" stackId="3" startPc="268438606"/>
+<entry arg="true" endPc="268439103" name="dc" stackId="1" startPc="268438594"/>
 </localVars>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
@@ -314,18 +384,19 @@
 </annotations>
 <dataEntryOffsetMappings>
 <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry label="globals/Background" offset="182" parentId="globals" symbolId="Background" type="class"/>
-<dataEntry label="globals/CircularBar" offset="237" parentId="globals" symbolId="CircularBar" type="class"/>
-<dataEntry label="globals/af_epixView" offset="396" parentId="globals" symbolId="af_epixView" type="class"/>
-<dataEntry label="globals/Rez" offset="571" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/Rez/Drawables" offset="650" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="689" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Fonts" offset="720" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="751" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="790" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="821" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/af_epixApp" offset="932" parentId="globals" symbolId="af_epixApp" type="class"/>
-<dataEntry label="globals/LongBar" offset="1011" parentId="globals" symbolId="LongBar" type="class"/>
+<dataEntry label="globals/Background" offset="190" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry label="globals/CircularBar" offset="245" parentId="globals" symbolId="CircularBar" type="class"/>
+<dataEntry label="globals/af_epixView" offset="404" parentId="globals" symbolId="af_epixView" type="class"/>
+<dataEntry label="globals/Rez" offset="579" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="658" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="697" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="728" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="759" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="798" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="829" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/TimeBox" offset="940" parentId="globals" symbolId="TimeBox" type="class"/>
+<dataEntry label="globals/af_epixApp" offset="1035" parentId="globals" symbolId="af_epixApp" type="class"/>
+<dataEntry label="globals/LongBar" offset="1114" parentId="globals" symbolId="LongBar" type="class"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268435651" name="initialize" parent="CircularBar" startPc="268435456">
@@ -362,7 +433,7 @@
 <param id="radians"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438541" name="&lt;init&gt;" parent="CircularBar" startPc="268438523">
+<functionEntry accessMode="protected" endPc="268439142" name="&lt;init&gt;" parent="CircularBar" startPc="268439124">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" endPc="268436320" name="initialize" parent="Background" startPc="268436275">
@@ -372,112 +443,142 @@
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438522" name="&lt;init&gt;" parent="Background" startPc="268438504">
+<functionEntry accessMode="protected" endPc="268439123" name="&lt;init&gt;" parent="Background" startPc="268439105">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436538" name="initialize" parent="af_epixView" startPc="268436387">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268436580" name="onLayout" parent="af_epixView" startPc="268436539">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268436585" name="onShow" parent="af_epixView" startPc="268436581">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268436658" name="onUpdate" parent="af_epixView" startPc="268436586">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268436663" name="onHide" parent="af_epixView" startPc="268436659">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268436691" name="onExitSleep" parent="af_epixView" startPc="268436664">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268436719" name="onEnterSleep" parent="af_epixView" startPc="268436692">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268437006" name="setTimeDisplay" parent="af_epixView" startPc="268436720">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268437092" name="setPowerModeDisplay" parent="af_epixView" startPc="268437007">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268437164" name="setBatteryDisplay" parent="af_epixView" startPc="268437093">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268437245" name="setStepsDisplay" parent="af_epixView" startPc="268437165">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="protected" endPc="268438560" name="&lt;init&gt;" parent="af_epixView" startPc="268438542">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268437448" name="initialize" parent="LongBar" startPc="268437246">
+<functionEntry accessMode="public" endPc="268436565" name="initialize" parent="TimeBox" startPc="268436387">
 <param id="params"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437702" name="draw" parent="LongBar" startPc="268437449">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268437717" name="setPercent" parent="LongBar" startPc="268437703">
-<param id="newPercent"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268437732" name="setHighPowerMode" parent="LongBar" startPc="268437718">
+<functionEntry accessMode="public" endPc="268436580" name="setHighPowerMode" parent="TimeBox" startPc="268436566">
 <param id="newHighPowerMode"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438628" name="&lt;init&gt;" parent="LongBar" startPc="268438610">
+<functionEntry accessMode="public" endPc="268436721" name="setPosition" parent="TimeBox" startPc="268436581">
+<param id="dc"/>
+<param id="newX"/>
+<param id="newY"/>
+<param id="center_relative"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437755" name="initialize" parent="af_epixApp" startPc="268437733">
+<functionEntry accessMode="public" endPc="268436936" name="getTimeString" parent="TimeBox" startPc="268436722">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437760" name="onStart" parent="af_epixApp" startPc="268437756">
-<param id="state"/>
+<functionEntry accessMode="protected" endPc="268439210" name="&lt;init&gt;" parent="TimeBox" startPc="268439192">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437765" name="onStop" parent="af_epixApp" startPc="268437761">
-<param id="state"/>
+<functionEntry accessMode="public" endPc="268437088" name="initialize" parent="af_epixView" startPc="268436937">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437807" name="getInitialView" parent="af_epixApp" startPc="268437766">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268437828" name="onSettingsChanged" parent="af_epixApp" startPc="268437808">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="protected" endPc="268438609" name="&lt;init&gt;" parent="af_epixApp" startPc="268438591">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268437857" name="getApp" startPc="268437829">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="protected" endPc="268438585" name="&lt;init&gt;" parent="Drawables" startPc="268438585">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="protected" endPc="268438587" name="&lt;init&gt;" parent="Fonts" startPc="268438587">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="protected" endPc="268438589" name="&lt;init&gt;" parent="JsonData" startPc="268438589">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268438502" name="WatchFace" parent="Layouts" startPc="268437858">
+<functionEntry accessMode="public" endPc="268437130" name="onLayout" parent="af_epixView" startPc="268437089">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438588" name="&lt;init&gt;" parent="Layouts" startPc="268438588">
+<functionEntry accessMode="public" endPc="268437135" name="onShow" parent="af_epixView" startPc="268437131">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438586" name="&lt;init&gt;" parent="Menus" startPc="268438586">
+<functionEntry accessMode="public" endPc="268437198" name="onUpdate" parent="af_epixView" startPc="268437136">
+<param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438590" name="&lt;init&gt;" parent="Strings" startPc="268438590">
+<functionEntry accessMode="public" endPc="268437203" name="onHide" parent="af_epixView" startPc="268437199">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438584" name="&lt;init&gt;" parent="Rez" startPc="268438561">
+<functionEntry accessMode="public" endPc="268437231" name="onExitSleep" parent="af_epixView" startPc="268437204">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437259" name="onEnterSleep" parent="af_epixView" startPc="268437232">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437662" name="setTimeDisplay" parent="af_epixView" startPc="268437260">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437748" name="setPowerModeDisplay" parent="af_epixView" startPc="268437663">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437855" name="setStepsDisplay" parent="af_epixView" startPc="268437749">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437948" name="setTimeBoxDisplay" parent="af_epixView" startPc="268437856">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439161" name="&lt;init&gt;" parent="af_epixView" startPc="268439143">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438151" name="initialize" parent="LongBar" startPc="268437949">
+<param id="params"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438302" name="draw" parent="LongBar" startPc="268438152">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438317" name="setPercent" parent="LongBar" startPc="268438303">
+<param id="newPercent"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438332" name="setHighPowerMode" parent="LongBar" startPc="268438318">
+<param id="newHighPowerMode"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438468" name="setPosition" parent="LongBar" startPc="268438333">
+<param id="dc"/>
+<param id="newX"/>
+<param id="newY"/>
+<param id="center_relative"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439248" name="&lt;init&gt;" parent="LongBar" startPc="268439230">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438491" name="initialize" parent="af_epixApp" startPc="268438469">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438496" name="onStart" parent="af_epixApp" startPc="268438492">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438501" name="onStop" parent="af_epixApp" startPc="268438497">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438543" name="getInitialView" parent="af_epixApp" startPc="268438502">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438564" name="onSettingsChanged" parent="af_epixApp" startPc="268438544">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439229" name="&lt;init&gt;" parent="af_epixApp" startPc="268439211">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438593" name="getApp" startPc="268438565">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439186" name="&lt;init&gt;" parent="Drawables" startPc="268439186">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439188" name="&lt;init&gt;" parent="Fonts" startPc="268439188">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439190" name="&lt;init&gt;" parent="JsonData" startPc="268439190">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439103" name="WatchFace" parent="Layouts" startPc="268438594">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439189" name="&lt;init&gt;" parent="Layouts" startPc="268439189">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439187" name="&lt;init&gt;" parent="Menus" startPc="268439187">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439191" name="&lt;init&gt;" parent="Strings" startPc="268439191">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439185" name="&lt;init&gt;" parent="Rez" startPc="268439162">
 <documentation/>
 </functionEntry>
 </functions>

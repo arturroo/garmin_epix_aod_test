@@ -1,0 +1,26 @@
+Video material
+
+https://developer.garmin.com/connect-iq/user-experience-guidelines/incorporating-the-visual-design-and-product-personalities/
+If you can only choose one, focus on light-on-dark themes. A light-on-dark theme will still look acceptable on devices with a default dark-on light display. On the other hand, a dark-on-light them will look out of place on an AMOLED display. Dark-on-light themes are best reserved for apps intended for outdoor activities on MIP displays.
+
+
+
+Laboratory
+
+WatchFace "af_epix" and "Coros Vertix2 Meteo"
+1. Without pixel burning prevention in alwaysOn mode (on Every minute update no pixel is turned off and no other ist turned on)
+    1. After choosing the watchface it starts in highPower Mode
+    2. After Timeout (8s) it goes into lowPower mode, then starts 3Minute timer for each Pixel
+    3. After 3 Minutes of having watch on hand but without makein any gestures the display is turned off and stays black.
+    4. When Screen is black gesture make is goes back to the highPower state (Step 1.) and the timers are counted from the beginning 
+
+
+151x46 = 6946 pixels
+16:40 =  2997 pixels
+zajetosc w % = 43%
+w zaokragleniu 50%
+
+Bontrager Foray Mountainbike-Schuh
+
+Trek Voda Ice Isolierte Trinkflasche
+https://www.trekbikes.com/ch/de_CH/equipment/fahrradzubeh%C3%B6r/fahrradtrinkflaschen--flaschenhalter/fahrradtrinkflaschen/trek-voda-ice-isolierte-trinkflasche/p/37369/?colorCode=white_black

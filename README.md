@@ -26,7 +26,7 @@ Results
 
 So to estimate number of active pixels I will use 50% of area given from Monkey C Library Dc.getTextDimensions(). This is little more then 43% just to be sure that I do not overcome 10% of active pixels, because it is only estimation.
 
-## MTB Trail in full sun and in forest
+## MTB Trail in full sun or in forest
 In full sun it is very hard to read something from the screen in low-power mode (dimmed).
 When I ride a bike I have my hands on the handlebar - obvious.
 If I want to see something on the watch I do the small twist of wrist to see the watchface, keeping hand on the handlebar.

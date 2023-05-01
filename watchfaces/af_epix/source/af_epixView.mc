@@ -44,11 +44,10 @@ class af_epixView extends WatchUi.WatchFace {
 
     // Update the view
     function onUpdate(dc as Dc) as Void {
-        setTimeDisplay();
+        //setTimeDisplay(dc);
+        setTimeBoxDisplay();
         setPowerModeDisplay();
-        // setArcDisplay(dc);
-        setBatteryDisplay();
-        setStepsDisplay();
+        setStepsDisplay(dc);
 
 
         // Call the parent onUpdate function to redraw the layout        
@@ -76,7 +75,7 @@ class af_epixView extends WatchUi.WatchFace {
     }
 
     // draw AF watchface
-    function setTimeDisplay() as Void {
+    function setTimeDisplay(dc as Dc) as Void {
         // Get the current time and format it correctly
         var timeFormat = "$1$:$2$";
         var clockTime = System.getClockTime();
@@ -94,9 +93,18 @@ class af_epixView extends WatchUi.WatchFace {
         var timeString = Lang.format(timeFormat, [hours, clockTime.min.format("%02d")]);
 
         // Update the view
-        var view = View.findDrawableById("TimeDisplay") as Text;
-        view.setColor(self.timeColors.get(self.powerMode));
-        view.setText(timeString);
+        var timeDisplay = View.findDrawableById("TimeDisplay") as Text;
+        timeDisplay.setColor(self.timeColors.get(self.powerMode));
+        timeDisplay.setText(timeString);
+        
+        var xOffset = 0;
+        var yOffset = -40;
+        var centerX = dc.getWidth() / 2;
+    	var centerY = dc.getHeight() / 2; 
+		var x = centerX - timeDisplay.width / 2  + xOffset;
+		var y = centerY - timeDisplay.height / 2 + yOffset;
+        timeDisplay.x = x;
+        timeDisplay.x = y;
     }
 
     function setPowerModeDisplay() as Void {
@@ -105,16 +113,18 @@ class af_epixView extends WatchUi.WatchFace {
         mymode.setText(self.powerMode);
     }
 
-    function setBatteryDisplay() {
-    	var battery = System.getSystemStats().battery;	
-		var batteryBarDisplay = View.findDrawableById("BatteryBarDisplay");
-		batteryBarDisplay.setPercent(battery/100);
-    }
-
-    function setStepsDisplay() {
+    function setStepsDisplay(dc as Dc) {
         var stepCount = ActivityMonitor.getInfo().steps.toString();
 		var stepsBarDisplay = View.findDrawableById("StepsBarDisplay");
+        stepsBarDisplay.setPosition(dc, 0, 0, true);
 		stepsBarDisplay.setHighPowerMode(self.highPowerMode);
+    }
+
+    function setTimeBoxDisplay() as Void {
+        var timeBox = View.findDrawableById("TimeDisplay") as Text;
+        timeBox.setColor(self.timeColors.get(self.powerMode));
+        var timeString = timeBox.getTimeString();
+        timeBox.setText(timeString);
     }
 
 }

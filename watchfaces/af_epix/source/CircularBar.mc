@@ -1,5 +1,5 @@
 using Toybox.WatchUi as Ui;
-using Toybox.Math;
+import Toybox.Math;
 
 class CircularBar extends Ui.Drawable {
 	hidden var centerX;
