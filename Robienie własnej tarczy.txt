@@ -1,0 +1,16 @@
+Robienie własnej tarczy
+1. Design - zaprojektować na papierze z uwzględnieniem tego co może platforma
+When I’m designing watchfaces, I typically think of 4 things:
+- Functionality
+- Layout
+- Font (keep in mind that font at smaller scales like this can impact final layout choices)
+- Colors
+
+I know that I want this watchface to show a few pieces of data:
+- How much battery is left
+- The user’s heartrate
+- The current step count
+- The current percent of step goal completion
+- The count of phone notifications
+- The date
+- And of course, I want it to show the time
